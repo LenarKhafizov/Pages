@@ -1,2 +1,2 @@
-# ![Диплом](img/diplom1.jpg)
-# ![Диплом](img/diplom2.jpg)
+# ![Диплом](diplom1.jpg)
+# ![Диплом](diplom2.jpg)
